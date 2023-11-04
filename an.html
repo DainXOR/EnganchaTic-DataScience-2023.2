@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>Datos Dinamicos</title>
+        <style>
+            section{
+                display: inline-block;
+                width: 100%;         
+            }
+            #gradio{
+                height: 300px;
+            }
+            #gradio iframe{
+                height: 100%;
+            }
+            #powerBi{
+                height: 541px;
+            }
+            #analisis{
+                background-color: green;
+                height: 1200;
+            }
+            iframe{
+                width: 100%;
+                border: none ;
+            }
+        </style>
+    </head>
+    <body>
+        <section id="gradio">
+            <iframe src="http://localhost:7860/"> </iframe>
+        </section>
+        <section id="powerBi">
+            <iframe title="Multichannel Attribution Dashboard V2" width="600" height="500.25" src="https://app.powerbi.com/view?r=eyJrIjoiZTliY2Q2NWEtYzgwMS00NWY3LWFkOGItMTExODI5MmI0N2RjIiwidCI6ImIxNTk2YThmLWMxNzYtNGNlZS1hN2ZhLTNjMTk1YjY0MTA1MSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+        </section>
+        <section id="analisis">
+            <iframe src="your_report.html" height="100%"> </iframe>
+        </section>
+
+    </body>
+</html>
