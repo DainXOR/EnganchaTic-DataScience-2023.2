@@ -1,0 +1,2 @@
+permissions,output,flag,username,timestamp
+"['android.permission.READ_EXTERNAL_STORAGE', 'android.permission.WRITE_SETTINGS']",,,,2023-11-04 14:42:05.080867
