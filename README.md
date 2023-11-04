@@ -2,4 +2,4 @@
 
 ## Deploy: https://hackchallenge.carlosforero.co/
 
-[![HTML]](https://hackchallenge.carlosforero.co/)
+[Deploy](https://hackchallenge.carlosforero.co/)
